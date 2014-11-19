@@ -2,8 +2,8 @@
 This is a quick Django application to run the Library of Congress's 
 [BFE](https://github.com/lcnetdev/bfe), a standalone editor for  
 BIBFRAME. This application allows JSON-LD entities to be created and
-saved as JSON-LD on the Filesystem. *NOTE:* This application is strictly for 
-demostration purposes and has not been tested or used in an production
+saved as JSON-LD on the file system. **NOTE:** This application is strictly for 
+demonstration purposes and has not been tested or used in an production
 environment.
 
 

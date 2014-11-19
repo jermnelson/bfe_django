@@ -1,0 +1,5 @@
+static/*
+*.pyc
+*.swp
+*.sqlite3
+bfe/ld/*
